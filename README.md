@@ -28,4 +28,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 🎨 User Interface Preview
-![UI Screenshot](./assets/ui_screenshot.png)
+![UI Screenshot](https://github.com/imrancode93/AI_Powered-_Creative_Story_Generator/blob/main/assets/ui_screenshot.png)
