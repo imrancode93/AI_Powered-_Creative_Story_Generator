@@ -26,3 +26,6 @@ pip install -r requirements.txt
 
 5️⃣ Run the Web App
 streamlit run app.py
+
+## 🎨 User Interface Preview
+![UI Screenshot](assets/ui_screenshot.png)
