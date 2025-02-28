@@ -28,4 +28,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 🎨 User Interface Preview
-![UI Screenshot](assets/ui_screenshot.png)
+![UI Screenshot](./assets/ui_screenshot.png)
